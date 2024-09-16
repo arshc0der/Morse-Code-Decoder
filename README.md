@@ -1,4 +1,3 @@
-```markdown
 # 📟 Morse Code Decoder - A Simple GUI Tool for Decoding Morse Code
 
 Welcome to the **Morse Code Decoder**! 🎉 This project is a straightforward GUI application built with Qt that helps users decode Morse code into readable text and play corresponding Morse code sounds. It's designed to be an educational tool for learning and practicing Morse code.
@@ -48,11 +47,6 @@ To get started with the Morse Code Decoder, follow these steps:
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Contact
-
-If you have any questions or suggestions, feel free to open an issue on the repository or contact me directly at [arshc0der@example.com](mailto:arshc0der@example.com).
-
 ---
 
 Thank you for visiting the Morse Code Decoder repository! Happy decoding and coding! 🚀
